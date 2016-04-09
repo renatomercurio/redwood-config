@@ -1,0 +1,4 @@
+< firewall > 50
+< isc.org > 50
+< safesearch > 20
+< spamhaus > 20

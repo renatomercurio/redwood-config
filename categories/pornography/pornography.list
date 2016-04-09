@@ -3076,7 +3076,6 @@
 <hot stars> 20
 < nsfw > 50 #Abbreviation for Not Safe For Work
 
-# negative values
+# negative values to reduce overblocking
 < dictionary > -500
 < news > -10
-

@@ -32,7 +32,7 @@ default 500
 /mail\.google/ -500
 
 # avoid blocking *.js files falsely marked as being text
-/.*\.js/ -3000
+/.*\.js\b/ -3000
 
 # avoid blocking ad blockers block lists # should better go to ads category
 /adtidy\.org/ -5000
